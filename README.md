@@ -27,7 +27,5 @@ you'll need to flash your board with your script through Arduino IDE.
 
 You can follow [this tutorial](https://www.locoduino.org/spip.php?article285) to setup your flash process.
 
-Congratulations, now you can start scripting !
-
-## Source Of Inspiration :
-You can find an [other repository](https://github.com/MTK911/Attiny85) which we use to create UsBad project. <br/>
+## Scripts Credits:
+[Here](https://github.com/MTK911/Attiny85) is the repository from which we drew inspiration for this project. <br/>
